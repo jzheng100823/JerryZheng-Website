@@ -1,0 +1,40 @@
+.nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color:#1b2430;
+    padding: 1%;
+    width: 100%;
+    overflow: auto;
+}
+.nav-title{
+    font-size: 30px;
+    color: whitesmoke;
+}
+.nav ul{
+    padding: 1em;
+    margin: auto;
+    list-style: none;
+    display: flex;
+    gap:1rem;
+    float: left;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    
+}
+.nav a{
+    text-decoration: none;
+}
+.nav li{
+    color: white;
+    align-items: center;
+    justify-content: right;
+    display: inline-block;
+    font-size: 20px;
+}
+.nav li:hover{
+    background-color:whitesmoke;
+    color: red;
+
+}

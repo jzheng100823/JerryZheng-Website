@@ -1,0 +1,18 @@
+.title{
+    font-size: 50px;
+    color: whitesmoke;
+}
+button{
+background-color: #ffff4d;
+border: none;
+color: black;
+padding: 12px 28px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 12px;
+font-weight: bold;
+margin: 4px 2px;
+transition-duration: 0.4s;
+cursor: pointer;
+}
